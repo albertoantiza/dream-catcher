@@ -1,4 +1,0 @@
-.env
-logs
-*.log
-mode_modules
